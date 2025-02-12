@@ -20,6 +20,8 @@ async def help_handler(event):
     - `.fakehack`: Fake hack a user.
     - `.gban`: Globally ban a user (Admin only).
     - `.ungban`: Un-globally ban a user (Admin only).
+    - `.fban`: Federally ban a user (Admin only).
+    - `.unfban`: Un-federally ban a user (Admin only).
     - `.weather`: Get weather info.
     """
     await event.reply(help_text)
