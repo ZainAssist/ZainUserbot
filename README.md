@@ -1,5 +1,3 @@
-# ZainUserbot
-
 <h2>ZainUserbot</h2>
 <p title="ZainUserbot">ZainUserbot is a powerful, advanced, multi-featured Telegram userbot.</p>
 
@@ -46,7 +44,7 @@ cp Internal.env Internal && python3 -m AdityaHalder
 
 <h2>Repository Credits:</h2>
 
-[Aditya Halder](https://github.com/ZainAssist): Owner Of This Repostory.
+[Zain](https://github.com/ZainAssist): Owner Of This Repostory.
 
 [Dan](https://github.com/pyrogram/pyrogram): Thanks For Pyrogram Library.
 
